@@ -38,6 +38,6 @@ instance_count = {
 
 instance_size = {
     Development = "t2.micro"
-    Production = "t2.micro"
+    Production = "t2.medium"
 }
 
